@@ -38,13 +38,17 @@ My research interests are  **control theory, optimization and machine learning w
   <strong><i style="color:#e74d3c">ISA transactions</i></strong>, 99, 148-153, 2020. 
   <br>
   
-- **Robust event‐triggered distributed min–max model predictive control of continuous‐time non-linear systems**
+- **Robust event-triggered distributed min-max model predictive control of continuous-time non-linear systems**
   <br>
    **Anni Li**, and Jitao Sun
   <br>
   <strong><i style="color:#e74d3c">IET Control Theory & Applications</i></strong>, 14 (19), 3320-3329, 2020. 
   <br>
   
- 
-
+- **Stabilization of mode-dependent impulsive hybrid systems driven by DFA with mixed-mode effects**
+  <br>
+   Junhui Zhang, **Anni Li**, Wei D. Lu and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">IEEE Transactions on Neural Networks and Learning Systems</i></strong>, 31(5), 1616-1625, 2020.
+  <br>
   
