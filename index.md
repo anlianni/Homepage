@@ -19,7 +19,7 @@ My research interests are  **control theory, optimization and machine learning w
   <br>
    **Anni Li**, Andres S. Chavez Armijos, and Christos G. Cassandras
   <br>
-  <i>arXiv preprint (2023)</i>
+  <i>arXiv preprint arXiv:2303.16948 (2023)</i>
   <br>
 
 
