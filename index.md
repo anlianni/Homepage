@@ -12,6 +12,13 @@ My research interests are  **control theory, optimization and machine learning w
 
 - **[March. 2023]** Our paper is submitted to IEEE CDC.
 
-{% include_relative _includes/publications.md %}
+## Publications
+<h4 style="margin:0 10px 0;">Preprint</h4>
 
-{% include_relative _includes/services.md %}
+<h4 style="margin:0 10px 0;">Journal Publications</h4>
+- **Resource limited event-triggered model predictive control for continuous-time nonlinear systems based on first-order hold**
+  <br>
+   **Anni Li**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">Nonlinear Analysis: Hybrid Systems</i></strong>, 47, 101273, 2023. 
+  <br>
