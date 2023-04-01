@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, welcome to my homepage! My name is Anni. I am currently a third-year PhD student at the [Control and Optimization of Discrete Event Systems (CODES) Laboratory](https://www.bu.edu/codes/people/), of Boston university advised by [Prof. Christos G. Cassandras] (https://christosgcassandras.org/). 
+Hello, welcome to my homepage! My name is Anni. I am currently a third-year PhD student at the [Control and Optimization of Discrete Event Systems (CODES) Laboratory](https://www.bu.edu/codes/people/), of Boston university advised by [Prof. Christos G. Cassandras](https://christosgcassandras.org/). 
 
 ## Research Interests
 
