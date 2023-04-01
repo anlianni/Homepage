@@ -16,6 +16,7 @@ My research interests are  **control theory, optimization and machine learning w
 <h4 style="margin:0 10px 0;">Preprint</h4>
 
 <h4 style="margin:0 10px 0;">Journal Publications</h4>
+
 - **Resource limited event-triggered model predictive control for continuous-time nonlinear systems based on first-order hold**
   <br>
    **Anni Li**, and Jitao Sun
