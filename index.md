@@ -14,6 +14,12 @@ My research interests are  **control theory, optimization and machine learning w
 
 ## Publications
 <h4 style="margin:0 10px 0;">Preprint</h4>
+- **Cooperative Energy and Time-Optimal Lane Change Maneuvers with Minimal Highway Traffic Disruption**
+  <br>
+   Andres S. Chavez Armijos, **Anni Li**, Christos G. Cassandras, Yasir K. Al-Nadawi, Hidekazu Araki, Behdad Chalaki, Ehsan Moradi-Pari, Hossein Nourkhiz Mahjoub, and Vaishnav Tadiparthi
+  <br>
+  <i>arXiv preprint arXiv:2211.08636 (2022)</i>
+  <br>
 
 <h4 style="margin:0 10px 0;">Journal Publications</h4>
 
