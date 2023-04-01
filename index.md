@@ -4,19 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hello, welcome to my homepage! My name is Anni. I am currently a third-year PhD student at the [Control and Optimization of Discrete Event Systems (CODES) Laboratory](https://www.bu.edu/codes/people/), of Boston university advised by [Prof. Christos G. Cassandras](https://christosgcassandras.org/). 
+Hello, welcome to my homepage! My name is Anni Li. I am currently a third-year PhD student at the [Control and Optimization of Discrete Event Systems (CODES) Laboratory](https://www.bu.edu/codes/people/) of Boston University advised by [Prof. Christos G. Cassandras](https://christosgcassandras.org/). I got my master degree at Applied Mathematics in 2020 from Tongji University advised by [Prof. Jitao Sun](https://math.tongji.edu.cn/info/1122/8339.htm). I also was a research assistant at the [Smart City with Artificial Intelligence (SCAI) Lab] (https://jamesyu.me/scai/) of SUSTech advised by [Prof. James Yu](https://faculty.sustech.edu.cn/?tagid=yujq3&iscss=1&snapid=1&orderby=date&go=1) in 2020. I obtained a dual Bachelor's degree in Mathematics and Physics from Central China Normal University in 2017.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interests are  **control theory, optimization and machine learning with applications to connected automated vehicles.**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[March. 2023]** Our paper is submitted to IEEE CDC.
 
 {% include_relative _includes/publications.md %}
 
