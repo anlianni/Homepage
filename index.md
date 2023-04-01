@@ -24,7 +24,7 @@ My research interests are  **control theory, optimization and machine learning w
  
 - **Minimally Disruptive Cooperative Lane-change Maneuvers**
   <br>
-   Behdad Chalaki, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Jovin D'sa, Ehsan Moradi-Pari, Andres S. Chavez Armijos, Anni Li, and Christos G. Cassandras
+   Behdad Chalaki, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Jovin D'sa, Ehsan Moradi-Pari, Andres S. Chavez Armijos, **Anni Li**, and Christos G. Cassandras
   <br>
   <i>arXiv preprint arXiv:2303.05991 (2023)</i>
   <br>
