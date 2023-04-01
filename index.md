@@ -38,7 +38,7 @@ My research interests are  **control theory, optimization and machine learning w
   <strong><i style="color:#e74d3c">ISA transactions</i></strong>, 99, 148-153, 2020. 
   <br>
   
-- **Robust event‐triggered distributed min–max model predictive control of continuous‐time non‐linear systems**
+- **Robust event‐triggered distributed min–max model predictive control of continuous‐time non-linear systems**
   <br>
    **Anni Li**, and Jitao Sun
   <br>
