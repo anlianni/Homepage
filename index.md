@@ -23,3 +23,26 @@ My research interests are  **control theory, optimization and machine learning w
   <br>
   <strong><i style="color:#e74d3c">Nonlinear Analysis: Hybrid Systems</i></strong>, 47, 101273, 2023. 
   <br>
+
+- **Self-triggered model predictive control for nonlinear continuous-time networked system via ensured performance control samples selection**
+  <br>
+   **Anni Li**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">International Journal of Control</i></strong>, 95 (10), 2793-2801, 2022. 
+  <br>
+  
+  - **Robust event‐triggered distributed min–max model predictive control of continuous‐time non‐linear systems**
+  <br>
+   **Anni Li**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">IET Control Theory & Applications</i></strong>, 14 (19), 3320-3329, 2020. 
+  <br>
+  
+  - **Stability of nonlinear system under distributed Lyapunov-based economic model predictive control with time-delay**
+  <br>
+   **Anni Li**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">ISA transactions</i></strong>, 99, 148-153, 2020. 
+  <br>
+
+  
