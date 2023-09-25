@@ -10,7 +10,7 @@ My research interests are  **control theory, optimization and machine learning w
 
 ## News
 
-- **[March. 2023]** Our paper is submitted to IEEE CDC.
+- **[July. 2023]** Our paper is accepted to IEEE CDC.
 
 ## Publications
 <h4 style="margin:0 10px 0;">Preprint</h4>
