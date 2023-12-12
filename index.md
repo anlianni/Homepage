@@ -4,18 +4,35 @@ layout: homepage
 
 ## About Me
 
-Hello, welcome to my homepage! My name is Anni Li. I am currently a third-year PhD student at the [Control and Optimization of Discrete Event Systems (CODES) Laboratory](https://www.bu.edu/codes/people/) of Boston University advised by [Prof. Christos G. Cassandras](https://christosgcassandras.org/). I got my Master degree at Applied Mathematics in 2020 from Tongji University advised by [Prof. Jitao Sun](https://math.tongji.edu.cn/info/1122/8339.htm). In the same year, I also worked as a research assistant at the [Smart City with Artificial Intelligence (SCAI) Lab](https://jamesyu.me/scai/) of SUSTech advised by [Prof. James Yu](https://faculty.sustech.edu.cn/?tagid=yujq3&iscss=1&snapid=1&orderby=date&go=1). In 2017, I obtained my dual Bachelor's degree in Mathematics and Physics from Central China Normal University.
+Hello, welcome to my homepage! My name is Anni Li. I am currently a fourth-year PhD student at the [Control and Optimization of Discrete Event Systems (CODES) Laboratory](https://www.bu.edu/codes/people/) of Boston University advised by [Prof. Christos G. Cassandras](https://christosgcassandras.org/). I got my Master degree at Applied Mathematics in 2020 from Tongji University advised by [Prof. Jitao Sun](https://math.tongji.edu.cn/info/1122/8339.htm). In the same year, I also worked as a research assistant at the [Smart City with Artificial Intelligence (SCAI) Lab](https://jamesyu.me/scai/) of SUSTech advised by [Prof. James Yu](https://faculty.sustech.edu.cn/?tagid=yujq3&iscss=1&snapid=1&orderby=date&go=1). In 2017, I obtained my dual Bachelor's degree in Mathematics and Physics from Central China Normal University.
 
-My research interests are  **control theory, optimization and machine learning with applications to connected automated vehicles.**
+My research interests are  **control theory, optimization, and machine learning with applications to connected automated vehicles.**
 
 ## News
 
-- **[July. 2023]** Our paper is accepted to IEEE CDC.
+- **[Sep. 2023]** Our paper has been accepted by IEEE ITSC.
+- **[July. 2023]** Our paper has been accepted by IEEE CDC.
 
 ## Publications
 <h4 style="margin:0 10px 0;">Preprint</h4>
 
-- **Cooperative Lane Changing in Mixed Traffic can be Robust to Human Driver Behavior**
+-**Safe Optimal Interactions Between Automated and Human-Driven Vehicles in Mixed Traffic with Event-triggered Control Barrier Functions**
+  <br>
+   **Anni Li**, Christos G. Cassandras, and Wei Xiao
+  <br>
+  <i>arXiv preprint arXiv:2310.00534 (2023)</i>
+  <br>
+
+  
+-**Maximizing Safety and Efficiency for Cooperative Lane-Changing: A Minimally Disruptive Approach**
+  <br>
+   Andres S. Chavez Armijos, **Anni Li**, and Christos G. Cassandras
+  <br>
+  <i>arXiv preprint arXiv: 2305.17883 (2023)</i>
+  <br>
+
+  
+- **Cooperative Lane Changing in Mixed Traffic Can be Robust to Human Driver Behavior**
   <br>
    **Anni Li**, Andres S. Chavez Armijos, and Christos G. Cassandras
   <br>
