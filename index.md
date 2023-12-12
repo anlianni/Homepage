@@ -16,7 +16,7 @@ My research interests are  **control theory, optimization, and machine learning 
 ## Publications
 <h4 style="margin:0 10px 0;">Preprint</h4>
 
--**Safe Optimal Interactions Between Automated and Human-Driven Vehicles in Mixed Traffic with Event-triggered Control Barrier Functions**
+- **Safe Optimal Interactions Between Automated and Human-Driven Vehicles in Mixed Traffic with Event-triggered Control Barrier Functions**
   <br>
    **Anni Li**, Christos G. Cassandras, and Wei Xiao
   <br>
@@ -24,7 +24,7 @@ My research interests are  **control theory, optimization, and machine learning 
   <br>
 
   
--**Maximizing Safety and Efficiency for Cooperative Lane-Changing: A Minimally Disruptive Approach**
+- **Maximizing Safety and Efficiency for Cooperative Lane-Changing: A Minimally Disruptive Approach**
   <br>
    Andres S. Chavez Armijos, **Anni Li**, and Christos G. Cassandras
   <br>
